@@ -1,2 +1,2 @@
 # @savant/chatgpt
-This repository contains copy+paste scripts you can use in ChatGPT.
+This repository contains useful *copy+paste* prompts for [ChatGPT](https://chat.openai.com/chat).
